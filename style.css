@@ -1,0 +1,204 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial, sans-serif;
+    margin-top: 25px;  
+}
+header > ul{
+    list-style-type: none;
+    display: flex;
+    font-size: 18px;
+    gap: 35px;
+}
+header > ul:hover{
+    color: rgb(0, 132, 255);
+}
+header > img{
+    width: 70px;
+    height: 70px;
+}
+header > button{
+    width: 145px;
+    height: 45px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header > button:hover{
+    border-bottom: 1px solid green;
+    background-color:  rgb(0, 255, 242);
+}
+main{
+    justify-content: space-around;
+    font-family: Arial, sans-serif;
+    margin-top: 25px;  
+    padding-left: 7%;
+}
+.img1{
+    width: 170px;
+    height: 60px;
+    padding-top: 15px;
+    margin-bottom: -25px;
+    padding-left: 30px;
+}
+.img2{
+    width: 550px;
+    height: 450px;
+    padding-left: 15%;
+}
+.saction{
+    padding: 20px 45px;
+    display: flex;
+}
+.sac > h3{
+    color: rgb(0, 132, 255);
+    padding-top: 20px;
+    font-size: 20px;
+
+}
+.sac > button{
+    width: 145px;
+    height: 45px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border-radius: 5px;
+
+}
+.sac > button:hover{
+    background-color: rgb(0, 255, 242);
+}
+.saction1{
+    display: flex;
+    padding-top: 5%;
+}
+.img3{
+    width: 400px;
+    padding: 10px 27px;
+}
+.sac1{
+    padding-left: 17%;
+}
+.sac1 > h3{
+    color: rgb(0, 132, 255);
+    font-size: 20px;
+}
+.sac1 > button{
+    width: 145px;
+    height: 45px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border-radius: 5px;
+}
+.sac1 > button:hover{
+    background-color: rgb(0, 255, 242);
+}
+.h-1 > h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
+.working{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+}
+.page1 > h4{
+    margin-left: 11%;
+    font-size: 20px;
+}
+.page1 > pre{
+    font-size: 15px;
+    color: gray;
+    margin-left: -25%;
+}
+.page2 > h4{
+    margin-left: 17%;
+    font-size: 20px;
+}
+.page2 > pre{
+    font-size: 15px;
+    color: gray;
+    margin-left: -25%;
+}
+.page3 > h4{
+    margin-left: 17%;
+    font-size: 20px;
+}
+.page3 > pre{
+    font-size: 15px;
+    color: gray;
+    margin-left: -25%;
+}
+.costumer{
+    display: flex;
+    padding: 80px;
+    font-size: 18px;
+}
+.costumer > img{
+    width: 200px;
+    height: 70px;
+    padding-left: 20%;
+}
+.img7{
+    width: 900px;
+    height: 300px;
+    margin-left: 5%;
+}
+.sign{
+    padding: 30px 50px;
+    background-color: rgb(241, 241, 241);
+    margin-left: -8%;
+    text-align: center;
+    margin-top: 10%;
+}
+.futer{
+    margin-top: 5%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.comun > img{
+    width: 90px;
+    height: 90px;
+}
+.comun{
+    padding: 20px;
+    font-size: 18px;
+}
+.comun > h4{
+    color: rgb(81, 80, 80);
+}
+.resurs{
+    padding: 20px;
+    font-size: 18px;
+}
+.resurs > h4{
+    color: rgb(81, 80, 80);
+}
+.mission{
+    padding: 20px;
+    font-size: 18px;
+}
+.mission > h4{
+    color: rgb(81, 80, 80);
+}
+.contact{
+    padding: 20px;
+    font-size: 18px;
+}
+.contact > h4{
+    color: rgb(81, 80, 80);
+}
+.ftr{
+    width: 1510px;
+    margin-left: -8.1%;
+}
